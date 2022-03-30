@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/drawable/splashbackground.xml" value="0.355" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_ayuda.xml" value="0.29717813051146386" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_estadisticas.xml" value="0.29717813051146386" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_mostrar_resultados.xml" value="0.33" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_registrar_estudiantes.xml" value="0.31040564373897706" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout-land/activity_registrar_notas.xml" value="0.31040564373897706" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_ayuda.xml" value="0.35104166666666664" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_estadisticas.xml" value="0.32395833333333335" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_main2.xml" value="0.32395833333333335" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_mostrar_resultados.xml" value="0.33" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_registrar_estudiantes.xml" value="0.33" />
+        <entry key="..\:/Kotlin/SaltamontesApp/app/src/main/res/layout/activity_registrar_notas.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

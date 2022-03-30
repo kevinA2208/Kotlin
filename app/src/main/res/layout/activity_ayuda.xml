@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Ayuda"
+        android:background="@drawable/fondoapp">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:text="Ayuda"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:textSize="16dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="Bienvenido, aqui te explicaremos como usar nuestra aplicación" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="15dp"
+        android:textSize="13dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="En el inicio contarás con 3 botones, el primero es de registra estudiantes, el segundo es de estadisticas y el tercer boton te envia a este apartado de ayuda" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:text="Registrar Estudiantes" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:textSize="13dp"
+        android:textColor="@color/black"
+        android:text="En el apartado de registrar estudiantes, deberás rellenar los campos segun tu nombre, tu información y tus materias con tus notas respectivas, al darle al boton de registrar, se te enviará a otra pantalla donde te muestra tus notas, tu promedio final y el estado en el que te encuentras" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:textSize="20dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:text="Estadisticas" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:text="En esta pantalla podrás tener una visión general de la cantidad de estudiantes que se han registrado en la aplicación, y de estos estudiantes podrás ver la cantidad que aprobaron, reprobaron o reprobaron pero pueden recuperar"
+        android:textColor="@color/black"
+        android:textSize="13dp" />
+
+    <Button
+        android:id="@+id/buttonSalir"
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:layout_marginTop="15dp"
+        android:text="Salir"
+        android:layout_gravity="center"/>
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="-1dp"
+        tools:context=".MainActivity"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondoapp">
+
+        <TextView
+            android:id="@+id/textTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:text="SALTAMONTES ESTUDIANTES"
+            android:textColor="@color/black"
+            android:textSize="70px" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="20dp"
+            android:text="BIENVENIDO!"
+            android:textColor="@color/black"
+            android:textSize="45px" />
+
+        <Button
+            android:id="@+id/buttonVentRegistrar"
+            android:layout_width="188dp"
+            android:layout_height="57dp"
+            android:layout_marginBottom="30dp"
+            android:backgroundTint="@color/green"
+            android:text="Registrar estudiante" />
+
+        <Button
+            android:id="@+id/buttonEstadisticas"
+            android:layout_width="194dp"
+            android:layout_height="63dp"
+            android:layout_marginBottom="30dp"
+            android:backgroundTint="@color/green"
+            android:text="VER ESTADISTICAS" />
+
+        <Button
+            android:id="@+id/buttonAyuda"
+            android:layout_width="189dp"
+            android:layout_height="60dp"
+            android:backgroundTint="@color/green"
+            android:text="Ayuda" />
+    </LinearLayout>
